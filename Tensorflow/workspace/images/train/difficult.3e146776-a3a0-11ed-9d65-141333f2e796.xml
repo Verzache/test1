@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>difficult.3e146776-a3a0-11ed-9d65-141333f2e796.jpg</filename>
+	<path>C:\Users\user\Downloads\New folder\difficult.3e146776-a3a0-11ed-9d65-141333f2e796.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Difficult</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>331</ymin>
+			<xmax>466</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

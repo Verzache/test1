@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>iloveyou.6740e57d-a3a0-11ed-a3d7-141333f2e796.jpg</filename>
+	<path>C:\Users\user\Downloads\New folder\iloveyou.6740e57d-a3a0-11ed-a3d7-141333f2e796.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>169</ymin>
+			<xmax>466</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

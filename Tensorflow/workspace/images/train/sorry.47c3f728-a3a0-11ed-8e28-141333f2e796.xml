@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>sorry.47c3f728-a3a0-11ed-8e28-141333f2e796.jpg</filename>
+	<path>C:\Users\user\Downloads\New folder\sorry.47c3f728-a3a0-11ed-8e28-141333f2e796.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sorry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>321</ymin>
+			<xmax>361</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
